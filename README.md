@@ -1,0 +1,2 @@
+# zmotd
+Simple shell motd
